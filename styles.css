@@ -1,4 +1,52 @@
 body{
-    background: lightblue;
+    background-color: #cafafe;
 }
 
+#personallinks{
+    gap: 15px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#socialMediaLinks{
+    height: 2em;
+    width: 2em;
+}
+
+/* Welcome Section */
+#welcomeSection{
+    /* background-color: #2b6777; */
+
+}
+
+#welcomeHeader h2{
+    text-align: center;
+    color: #2b6777;
+    font-size: 100px;
+}
+
+#welcomeStatment{
+    width: 25em;
+    height: em;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    color: #2b6777;
+}
+
+#welcomVideo{
+    text-align: center;
+}
+
+#welcomVideo a{
+    background-color: #2b6777;
+}
+
+
+/* Projects Section */
+.projectStatment{
+    text-align: center;
+}
+.projectStatment h3{
+    font-size: 55px;
+}
